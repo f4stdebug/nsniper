@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.lock
+*.log
+latest*.log
+proxies.txt
+proxies_raw.txt
+proxies_alive.txt
+available.txt
+available*.txt
+checd.txt
